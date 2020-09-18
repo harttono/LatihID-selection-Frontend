@@ -145,7 +145,7 @@ main{
   height:55rem;
 }
 .banner-content{
-  width:70%;
+  width:60%;
   height:100%;
   padding:3rem;
   box-sizing:border-box;
@@ -198,7 +198,7 @@ input.arrow{
 }
 .banner-content .description p{
   margin:0;
-  font-size:3rem;
+  font-size:2.5rem;
   font-weight:100;
   color:#393939;
 }
